@@ -1,0 +1,230 @@
+body{
+    background-color:red ;
+}
+.topbar{
+    border: solid black;
+    height: 10vh;
+    display:flex ;
+    justify-content: space-between;
+    background-image: url("https://e0.pxfuel.com/wallpapers/409/273/desktop-wallpaper-marvel-universe-for-pc-and-mobile-for-iphone-android-mcu-laptop.jpg"), url("https://wallpapercave.com/wp/wp2179237.jpg");
+    background-position: left top, right top;
+    background-size: contain;
+    opacity: 0.7;
+}
+.login{
+    border: solid yellow;
+    height: 100%;
+    width: 25%;
+    display:flex ;
+    position: static;
+}
+.tblogo{
+    border: solid red;
+    height: 100%;
+    width: 30%;
+    display:flex ;
+    
+}
+
+.rside{
+    border: solid blue;
+    height: 100%;
+    width: 30%;
+    display:flex ;
+}
+
+.rsidea{
+    border: solid green;
+    width: 50%;
+    display: flex;
+    margin-right: px;
+}
+.rsideb{
+    border: solid pink;
+    display: flex;
+    width: 50%;
+    margin-left: px;
+}
+
+.two{
+    height: 1px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.a{
+    height: 150vh;
+    width: 18%;
+    position: sticky;
+}
+.logo1{
+    background: url("https://e0.pxfuel.com/wallpapers/409/273/desktop-wallpaper-marvel-universe-for-pc-and-mobile-for-iphone-android-mcu-laptop.jpg");
+    background-size: contain;
+    transform: skewY(-10deg);
+}
+.menu{
+    width: 340px;
+    height: 90px;
+    transform: skewY(-10deg);
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-items: space-between;
+    font-family: fantasy;
+}
+#bottommenu{
+    height: 225vh;
+    width: 100%;
+    background-size: contain;
+}
+#SMmenu:hover{
+    cursor: pointer;
+    background-image: url("https://www.universalorlando.com/webdata/k2/en/us/files/Images/gds/ioa-amazing-adventures-of-spiderman-ride-exterior-sign-b.jpg");
+    background-size: contain;
+    color: blue;
+}
+#CMmenu:hover{
+    cursor: pointer;
+    background-image: url("https://images.thedirect.com/media/article_full/captain-marvel-2-brie-larson-merch.jpg");
+    background-size: contain;
+    color: yellow;
+}
+#IHmenu:hover{
+    cursor: pointer;
+    background-image: url("https://wallpapercave.com/wp/wp2179237.jpg");
+    background-size: contain;
+    color: black;
+}
+#IMmenu:hover{
+    cursor: pointer;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/14/548/927/the-avengers-avengers-endgame-avengers-endgame-infinity-gauntlet-iron-man-hd-wallpaper-preview.jpg");
+    background-size: contain;
+    color:red ;
+}
+#CAmenu:hover{
+    cursor: pointer;
+    background-image: url("https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg");
+    background-size: contain;
+    color: red;
+}
+#BPmenu:hover{
+    cursor: pointer;
+    background-image: url("https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E9C4697F1745DEF68CD73B638BE6FCFB72B537788FB4F252E04B7BB745EE27A9/scale?width=1200&aspectRatio=1.78&format=jpeg");
+    background-size: contain;
+    color: purple;
+}
+.menu:hover {
+    cursor: pointer;
+    background: black;
+    color: white;
+}
+.inmenu{
+    height: 12vh;
+    background-image: url("https://e0.pxfuel.com/wallpapers/409/273/desktop-wallpaper-marvel-universe-for-pc-and-mobile-for-iphone-android-mcu-laptop.jpg");
+    background-size: contain;
+    transform: skewY(-10deg);
+}
+.b{
+    border: solid black;
+    height: 350vh;
+    width: 81.5%;
+    margin-left: 18.1%;
+}
+.b1,.b2,.b3,.b4,.b5,.b6{
+    border: solid black;
+    height: 57.8vh;
+    width: 100%;
+    display: flex;
+}
+.b1a,.b1b,.b2a,.b2b,.b3a,.b3b,.b4a,.b4b,.b5a,.b5b,.b6a,.b6b{
+    height: 100%;
+    width: 100%;
+}
+.b1a1{
+    background-image: url("https://media4.giphy.com/media/HlmYO0C0DsZVixtWMT/giphy.gif");
+    background-repeat: no-repeat;
+    border: solid black;
+    width: 40%;
+    height: 45%;
+}
+.b1b{
+    background-image: url("https://pbs.twimg.com/media/FbcLd2cUYAAirOG?format=jpg&name=large");
+    background-size: contain;
+    width: 40%;
+    height: 100%;
+}
+.b2b{
+    background-image: url("https://66.media.tumblr.com/be8245ffa89f00ef11e351e9327da762/tumblr_pj6yslD2qX1u1kyq6o3_r1_540.gif");
+}
+.b2ba{
+    background-image: url("https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2B0CDDFE7A88982699849E4BF49CE7630EF40BFF534630DDB26626C81C8498A7/scale?width=1200&aspectRatio=1.78&format=jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}
+.b2a{
+    background-image: url("https://media2.giphy.com/media/NResYcJx9MKIIIU7I6/200w.gif?cid=6c09b952zsray1qrnajtys0o3zom0r6m8w57qgxcueydomom&rid=200w.gif&ct=g");
+    background-repeat: no-repeat;
+}
+.b3b{
+    background-image: url("https://thumbs.gfycat.com/DopeyUnlinedGourami-max-1mb.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: solid purple;
+    height: 65%;
+    width: 80%;
+}
+.b3ba{
+    border: solid black;
+    height: 153%;
+    background-image: url("https://www.previewsworld.com/SiteImage/MainImage/STK673527");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 25%;
+}
+.b4{
+background-image: url("https://media4.giphy.com/media/Yr0WpfGegdgcdqZXcL/giphy.gif?cid=6c09b9521hnholb9kzbfpmh19y3rzzi3ricqfjb2jg7nwfdr&rid=giphy.gif&ct=g");
+background-repeat: no-repeat;
+background-size: contain;
+width: 100%;
+border: solid black;
+}
+.b4a1{
+    background-image: url("https://i.ebayimg.com/images/g/5ogAAOSw6JlfVPKh/s-l500.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 50%;
+    margin-top: 2px;
+}
+.b5{
+    background-image: url("https://i.pinimg.com/originals/ed/98/fd/ed98fd5895998978d08654b96ffe6a91.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.b5b2{
+    background-image: url("https://m.media-amazon.com/images/I/71krfsS5kNL.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 50%;
+    border: solid black;
+    margin-left: 50%;
+}
+.b6{
+    background-image: url("https://miro.medium.com/max/540/0*jfMlpoM0alGRvlSF");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.b6b1{
+    background-image: url("https://lumiere-a.akamaihd.net/v1/images/pp_disney_blackpanther_wakandaforever_1289_d3419b8f.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 80%;
+    margin-left: 40%;
+}
